@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaePistachio
+- 👋 Hi, I’m Nick White!
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JS, React, Redux & PHP
 - 💞️ I’m looking to collaborate on anything web dev related which I can use for learning.
